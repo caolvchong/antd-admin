@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { actions, smart, Link, urlFor } from 'cat-eye';
-import { Layout, Dropdown, Menu, Icon, Modal } from 'fish';
+import { Layout, Dropdown, Menu, Icon, Modal } from 'antd';
 import style from './style';
 import avatar from 'styles/images/avatar.png';
 const { Header } = Layout;

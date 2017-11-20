@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { smart, actions } from 'cat-eye';
-import { Form, Input, Radio, Button } from 'fish';
+import { Form, Input, Radio, Button } from 'antd';
 import { ROLE } from 'config/constant';
 import style from './style';
 

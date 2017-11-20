@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { urlFor, Link, actions } from 'cat-eye';
-import { Button } from 'fish';
+import { Button } from 'antd';
 import { EXCEPTION } from 'config/constant';
 import style from './style';
 

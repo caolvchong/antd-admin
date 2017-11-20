@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Breadcrumb, Icon } from 'fish';
+import { Breadcrumb, Icon } from 'antd';
 import { Link, urlFor, smart } from 'cat-eye';
 import style from './style';
 

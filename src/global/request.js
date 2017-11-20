@@ -1,6 +1,6 @@
 import { request, actions, setIn, getIn } from 'cat-eye';
 import proxyConfig from 'config/proxy';
-import { message } from 'fish';
+import { message } from 'antd';
 
 const proxy = request.init(proxyConfig);
 

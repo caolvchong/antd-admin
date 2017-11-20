@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import { Table } from 'fish';
+import { Table } from 'antd';
 
 export default class extends Component {
   static defaultProps = {

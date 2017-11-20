@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import style from 'styles/app';
 import Routers from './routers';
 import { smart, actions, withRouter } from 'cat-eye';
-import { Spin } from 'fish';
+import { Spin } from 'antd';
 import { USER_STATUS } from 'config/constant';
 import Layout from 'components/layout';
 

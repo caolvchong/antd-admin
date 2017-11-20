@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card } from 'fish';
+import { Card } from 'antd';
 import './model';
 import style from './style';
 import Search from './Search';

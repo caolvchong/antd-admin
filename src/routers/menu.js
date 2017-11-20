@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal } from 'fish';
+import { Modal } from 'antd';
 
 // 菜单配置
 export default [

@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "@sdp.nd/fish": "^2.0.0-dev",
-    "cat-eye": "^0.2.3",
+    "antd": "^2.13.10",
+    "cat-eye": "next",
     "classnames": "^2.2.5",
-    "react": "^0.14.9",
-    "react-dom": "^0.14.9"
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

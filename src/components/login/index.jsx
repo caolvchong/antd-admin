@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Layout } from 'fish';
+import { Layout } from 'antd';
 import { smart, Redirect, urlFor } from 'cat-eye';
 import './model';
 import Header from './Header';

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { urlFor, Link, smart, actions } from 'cat-eye';
-import { Menu, Icon } from 'fish';
+import { Menu, Icon } from 'antd';
 import style from './style';
 import menus from 'routers/menu';
 const SubMenu = Menu.SubMenu;

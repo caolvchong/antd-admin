@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { smart, actions, Link, urlFor } from 'cat-eye';
-import { Timeline, Tag } from 'fish';
+import { Timeline, Tag } from 'antd';
 import Feature from './Feature'
 import Todo from './Todo'
 import Bug from './Bug'
@@ -12,7 +12,6 @@ const Home = props => {
       <Timeline>
         <Timeline.Item>
           <Tag color="red">todo list</Tag>
-          <p><Bug/> 样式兼容 IE8</p>
           <p><Todo/> 例子：动态操作表单</p>
           <p><Todo/> 例子：富文本编辑器组件</p>
           <p><Todo/> 例子：经典多页增删改查</p>

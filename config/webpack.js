@@ -1,10 +1,9 @@
 // 生成页面的 title
-exports.title = 'fish admin';
+exports.title = 'ant design admin';
 
 // 别名配置
 exports.resolve = {
   alias: {
-    fish: '@sdp.nd/fish'
   }
 };
 

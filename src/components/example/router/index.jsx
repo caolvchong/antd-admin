@@ -2,7 +2,7 @@ import React from 'react';
 import { router, NavLink, urlFor, smart } from 'cat-eye';
 import style from './style';
 import Routers from 'routers';
-import { Card, Row, Col } from 'fish';
+import { Card, Row, Col } from 'antd';
 import classnames from 'classnames'
 
 const Index = props => {

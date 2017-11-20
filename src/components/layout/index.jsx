@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Layout } from 'fish';
+import { Layout } from 'antd';
 import Footer from 'components/common/Footer';
 import Logo from './Logo';
 import Header from './Header';

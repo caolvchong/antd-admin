@@ -1,7 +1,8 @@
 html,
 body,
 #root,
-.main {
+.main,
+.root {
   height: 100%;
 }
 
@@ -18,4 +19,9 @@ body,
 
 .card:hover {
   box-shadow: none !important;
+}
+
+.ant-layout-has-sider > .ant-layout-sider {
+  float: left;
+  position: relative;
 }

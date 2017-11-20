@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Form, Icon, Input, Button, Alert } from 'fish';
+import { Form, Icon, Input, Button, Alert } from 'antd';
 import { smart, actions, urlFor } from 'cat-eye';
 import style from './style';
 const FormItem = Form.Item;

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from 'fish';
+import { Card } from 'antd';
 import style from './style'
 
 export default props => {
